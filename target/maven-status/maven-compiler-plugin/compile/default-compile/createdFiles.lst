@@ -1,0 +1,6 @@
+model\Perjalanan.class
+model\CRUD.class
+model\WisataAlam.class
+model\Wisata.class
+model\WisataBudaya.class
+main\Main.class
